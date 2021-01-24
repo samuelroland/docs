@@ -8,10 +8,10 @@ Ce repository est public dans **le but d'aider d'abord des élèves du CPNV** da
 **D'autres ressources arriveront dans quelques temps**.
 
 ## Ressources
-## PHP
+### PHP
 - Cours **ICT-133**
     - [Mémento Pratique PHP ICT-133](php/Memento_Pratique_PHP_ICT-133.md)
 - Cours **ICT-151**
-    - [Mémento Pratique PHP+BDD ICT-151](Memento_Pratique_PHP_BDD_ICT-151.md)
+    - [Mémento Pratique PHP+BDD ICT-151](php/Memento_Pratique_PHP_BDD_ICT-151.md)
     - Exo Calendar Debug (à venir)
 - ...
