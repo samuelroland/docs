@@ -1,0 +1,131 @@
+ul {
+    list-style-type: none;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+}
+
+/* Month header */
+.month {
+    padding: 20px 25px;
+    width: 100%;
+    background: #1abc9c;
+    text-align: center;
+}
+
+/* Month list */
+.month ul {
+    margin: 0;
+    padding: 0;
+}
+
+.month ul li {
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+/* Previous button inside month header */
+.month .prev {
+    float: left;
+    padding-top: 10px;
+}
+
+/* Next button */
+.month .next {
+    float: right;
+    padding-top: 10px;
+}
+
+/* Weekdays (Mon-Sun) */
+.weekdays {
+    margin: 0;
+    padding: 10px 0;
+    background-color: #ddd;
+}
+
+.weekdays li {
+    display: inline-block;
+    width: 13.6%;
+    color: #666;
+    text-align: center;
+}
+
+/* Days (1-31) */
+.days {
+    padding: 10px 0;
+    background: #eee;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    min-height: 100px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.days li {
+    list-style-type: none;
+    display: inline-block;
+    width: 13.6%;
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 15px;
+    color: #777;
+    height: 100px;
+}
+
+/* Highlight the "current" day */
+.days li .active {
+    padding: 5px;
+    background: #0d5209;
+    color: white !important
+}
+
+.active {
+    background-color: #ff8b00;
+}
+
+.button {
+    background-color: green;
+    width: 150px;
+    border: solid 1px black;
+    margin-top: 20px;
+    color: white;
+    font-family: Helvetica;
+    font-size: 1.5em;
+}
+
+.othermonth {
+    background-color: #dddddd;
+    padding: 4px;
+}
+
+.thismonth {
+    background-color: #61bcae;
+    padding: 4px;
+}
+
+.button:hover {
+    color: blueviolet;
+}
+
+.circle {
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    background-color: #032a36;
+    display: inline-block;
+    margin: 5px 5px;
+}
+
+.eventtitle {
+    margin: 5px 0;
+
+}
+
+.event {
+    text-align: left;
+}
