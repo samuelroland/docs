@@ -23,6 +23,7 @@ Ce repository est public dans **le but d'aider d'abord des élèves du CPNV dans
 - **[Exo Calendar Debug](/php/challenges/calendar_debug_ict151_revisions)**  
 Ce challenge permet de *s’entrainer à debugger*, à comprendre le code écrit par quelqu'un d'autre, localiser les bugs, les erreurs de logiques et de syntaxe, … dans une application PHP liée à une base de données. Cela permet aussi de voir si des concepts vu mais peu utilisés, sont bien acquis. Calendar Debug est ici un petit calendrier qui permet à différents utilisateurs d’afficher des événements.
 **La consigne `Challenge Calendar Debug.pdf`** vous explique comment vous lancer...
+- **[Examen formatif](php/examen_formatif_ict_151)**: un examen formatif fait maison et basé sur RentASnow.
 
 ### SQL
 #### Cours ICT-105
