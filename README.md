@@ -1,11 +1,11 @@
 # docs
 ###  Documentations et ressources personnelles concernant le développement, réalisées/collectées au fur et à mesure de mes cours, stages, jobs et apprentissages seul en auto-didacte.
 
-Ce repository est public dans **le but d'aider d'abord des élèves du CPNV dans les cours de programmation** en proposant des documents/ressources fait par qqun qui a suivi les mêmes cours, et aussi des ressources en plus que celles fournies durant les cours; comme des exercices amusants et alternatifs. 
+Ce repository est public dans **le but d'aider d'abord des élèves du CPNV dans les cours de programmation** en proposant des documents/ressources fait par quelqu'un qui a suivi les mêmes cours, et aussi des ressources en plus que celles fournies durant les cours; comme des exercices amusants et alternatifs et ressources complémentaires.
 
 Évidemment, cette base de connaissances peut être aussi utile plus largement pour toutes les personnes souhaitant apprendre la programmation avec les langages concernés... Les ressources sont en français pour l'instant.
 
-**D'autres ressources arriveront dans quelques temps...**
+**D'autres ressources arriveront dans quelque temps...**
 
 ## Comment utiliser ?
 1. Cloner le repos
@@ -15,6 +15,7 @@ Ce repository est public dans **le but d'aider d'abord des élèves du CPNV dans
 
 ## Ressources
 ### PHP
+- **[Exos-explorer](php/exos-explorer/)**: Un explorateur d'exercices en PHP. Permet de parcourir les exercices PHP répartis dans plusieurs dossiers sans changer la racine du serveur, ni taper un long chemin relatif dans son navigateur.
 #### Cours **ICT-133**
 - **[Mémento Pratique PHP ICT-133](php/Memento_Pratique_PHP_ICT-133.md)**: la majorité des connaissances théoriques du cours ICT-133
 #### Cours **ICT-151**

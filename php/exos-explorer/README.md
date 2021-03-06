@@ -1,9 +1,9 @@
 # Exos-explorer
-### Un explorateur d'exerices en PHP.
+### Un explorateur d'exercices en PHP.
 
 ![main](img-readme/main.png)
 
-Vous avez un repos contenant plusieurs exerices PHP ? Chaque dossier est une mini application pour comprendre un concept ? Pas besoin de redémarrer ou changer de dossier racine de votre serveur PHP à chaque fois que vous changez d'exercices... Et pas besoin de taper le chemin entier d'accès pour atteindre la racine de l'exercice.
+Vous avez un repos contenant plusieurs exercices PHP ? Chaque dossier est une mini application pour comprendre un concept ? Pas besoin de redémarrer ou changer de dossier racine de votre serveur PHP à chaque fois que vous changez d'exercices... Et pas besoin de taper le chemin entier d'accès pour atteindre la racine de l'exercice.
 
 #### Exemple de structure de repository:
 
