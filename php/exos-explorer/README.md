@@ -79,6 +79,6 @@ Parfois un dossier ne contient pas d'index.php mais d'autres fichiers PHP qui do
 ![main](img-readme/exos-no-index.png)
 
 Une fois un exercice ouvert:  
-![main](img-readme/exo-access.PNG)
+![main](img-readme/exo-access.png)
 
 **AVERTISSEMENT**: le code n'est pas très propre (pas du tout). Plein de bugs n'ont pas été corrigés... mais ça fonctionne pour une utilisation basique. N'hésitez pas à modifier le code et personnaliser ce fichier à votre sauce (ça fait partie de l'apprentissage).
