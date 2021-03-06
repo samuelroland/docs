@@ -1,0 +1,25 @@
+.center{
+    text-align: center;
+}
+.link{
+    text-decoration: underline;
+    color: #4DB9EE;
+    transition: .025s;
+}
+.link :hover{
+    color: black;
+}
+
+.commentZone{
+    border-bottom: 2px dashed blue;
+    margin-top: 10px;
+}
+
+.iconstar{
+    height: 20px;
+    margin-left: 2px;
+}
+
+.iconemoji{
+    height: 50px;
+}
