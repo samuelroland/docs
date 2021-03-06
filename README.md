@@ -23,5 +23,9 @@ Ce repository est public dans **le but d'aider d'abord des élèves du CPNV dans
 Ce challenge permet de *s’entrainer à debugger*, à comprendre le code écrit par quelqu'un d'autre, localiser les bugs, les erreurs de logiques et de syntaxe, … dans une application PHP liée à une base de données. Cela permet aussi de voir si des concepts vu mais peu utilisés, sont bien acquis. Calendar Debug est ici un petit calendrier qui permet à différents utilisateurs d’afficher des événements.
 **La consigne `Challenge Calendar Debug.pdf`** vous explique comment vous lancer...
 
+### SQL
+#### Cours ICT-105
+- **[Base de données Marvel](sql/Marvel-films-db.sql)**: une petite base de données à des fins de démonstrations ou de tests (créé pour les portes ouvertes du CPNV à l'origine).
+
 ## Intéressé·e, aidé·e ?
 Vous pouvez **partager ce repos** à d'autres développeur·euses potentiellement intéressé·es et **laisser une étoile**, créer une issue pour des suggestions/idées ou questions sur des ressources, envoyer des pull requests pour les erreurs de typo, autres idées, ...

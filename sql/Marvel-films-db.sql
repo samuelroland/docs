@@ -1,6 +1,6 @@
 -- Version: 1.0
 -- Project: Script SQL permettant de créer et remplir une base de données fictives avec des informations sur les films Marvel (les données ne sont pas réelles). (créé à l'occasion des portes ouvertes du CPNV en 2019).
--- Author: Samuel Roland/ Benoît Pierrehumbert
+-- Authors: Samuel Roland/ Benoît Pierrehumbert
 
 -- Suppresion de la base de donnée existante:
 DROP DATABASE IF EXISTS mcu;
