@@ -332,7 +332,7 @@ Les différentes manipulations résumées avec l'acronyme **MERCI**:
 
 - **Mesurer**: `count($tableau`) retourne nombres d'éléments du tableaux, ou `strlen($myrandomstring)` retourne la longueur de la chaine.
 - **Extraire**: `substr(thestring, startpos, length)` retourne la chaine extraite
-- **Rechercher**: `stripos ( string $haystack , mixed $needle [, int $offset = 0 ] ) : int` cherche une aiguille dans une botte de foin donc une sous chaine dans une chaine.
+- **Rechercher**: `strpos( string $haystack , string $needle , int $offset = 0 ) : int|false` cherche une aiguille dans une botte de foin donc une sous chaine dans une chaine.
 - **Concaténer**: `<li>Produit numéro " . $i . "</li>` ou `<li>Connecté en " . $user['firstname'] . "</li>` On met un "." au lieu du "+" en C# ou en javascript. 
 - **Interpoler**: `<li>Produit numéro $i</li>`. Attention double guillemets obligatoires et ça ne fonctionne pas avec les tableaux ! Dans ce cas on doit utiliser la concaténation, ou alors on entoure le tableau de `{` `}` ce qui donne: `<li>Connecté en {$user['firstname']}</li>`
 
